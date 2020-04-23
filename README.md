@@ -13,4 +13,6 @@ GPU: Nvidia GeForce GTX 660
 Much of this follows https://www.tensorflow.org/install/source, 
 
 First, update python.
+'''
 sudo apt install python-dev python-pip
+'''
